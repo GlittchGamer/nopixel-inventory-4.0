@@ -27,7 +27,7 @@ This resource requires:
 - `oxmysql` - Database operations
 - `np-polyzone` - Inventory interaction zones
 - `np-objects` - Object handling
-- `ghost-lib` - Utility functions
+- `np-lib` - Utility functions
 - `focusmanager` - UI focus management
 - `np-keybinds` - Key mapping
 - `interactions` - Player-object interactions
