@@ -1,5 +1,7 @@
 # FiveM Inventory System
 
+# If you dont know ts or how to build stuff stick to qbcore inventory #
+
 A comprehensive inventory management system for FiveM roleplay servers, built to work with QB-Core framework and including NP style functionality.
 
 ## Overview
