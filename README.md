@@ -162,3 +162,5 @@ Client and server communicate through FiveM's event system with structured data 
 ## Credits
 
 Based on NP features, adapted for optimal performance and user experience.
+
+Originally Made by Aspect
